@@ -47,7 +47,18 @@ h4 {
     text-transform: capitalize;
     letter-spacing: 2px;
     position: relative;
-    color: #532711;
+    color: #747474;
+    margin-left: 15px;
+    font-weight: 800;
+    font-size:30px ;
+}
+
+h5 {
+    font-family: 'Lato', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    position: relative;
+    color: #494949;
     margin-left: 40px;
     font-weight: 800;
     font-size:30px ;
