@@ -94,6 +94,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
+    background: #a2a2a2;
 }
 
 .size-50 {
@@ -333,6 +334,7 @@ a.active {
 
 #about {
     padding: 100px 0;
+    background: #d0d0d0;
 }
 
 .about-img-div img {
@@ -355,7 +357,6 @@ a.active {
 
 #experience {
     padding: 100px 0;
-    background: #f3f3f3
 }
 
 .experience-row {
@@ -480,7 +481,7 @@ a.active {
 
 #projects {
     padding: 100px 0;
-    background: rgb(174, 174, 174);
+    background: #d0d0d0;;
 }
 
 .portfolio .categories-grid span {
@@ -664,7 +665,6 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
 }
 
 #contact-form input,
@@ -792,7 +792,6 @@ fieldset {
 
 #specialthanks {
     padding: 0 0;
-    background: #8d8d8d
 }
 
 
