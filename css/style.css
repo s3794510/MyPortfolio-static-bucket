@@ -44,7 +44,7 @@ h1 {
 
 h4 {
     font-family: 'Lato', sans-serif;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     letter-spacing: 2px;
     position: relative;
     color: #747474;
@@ -111,6 +111,10 @@ body {
 
 .h-50 {
     height: 50px;
+}
+.signature {
+    height: 20px;
+    
 }
 
 
@@ -447,15 +451,15 @@ a.active {
     transition: transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #425BB5;
-    outline: 10px solid #f3f3f3;
+    background-color: #161616;
+    outline: 2px solid #c2c2c2;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
     position: absolute;
     top: 0;
-    left: 2em;
-    width: 1em;
-    height: 1em;
+    left: 1.75em;
+    width: 1.5em;
+    height: 1.5em;
 }
 
 .timeline-event-thumbnail {
@@ -665,6 +669,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
+    background-color: rgb(195, 219, 219);
 }
 
 #contact-form input,
@@ -791,7 +796,7 @@ fieldset {
 ==================================================*/
 
 #specialthanks {
-    padding: 0 0;
+    padding: 100px 0;
 }
 
 
