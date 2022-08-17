@@ -74,6 +74,16 @@ h5 {
     font-weight: 800;
     font-size:30px ;
 }
+
+ul.line {
+    list-style-type: square;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.5px;
+    position: relative;
+    color: #292828;
+    font-weight: 400;
+    font-size:15px ;
+}
 /*
 h4:before {
     position: absolute;
